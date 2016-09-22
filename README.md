@@ -1,4 +1,4 @@
-# RentalApp
+## RentalApp
 TableView App with customized Rows iOS 8 upwards.  
 ## Overview
 This is a single view iOS 10 application that displays some images stored locally.  The app has a 
